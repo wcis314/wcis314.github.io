@@ -1,8 +1,8 @@
 // 在手机端显示的背景图片链接
-const mobileBgImageUrl = "url('/img/default.png')";
+const mobileBgImageUrl = "url('/img/Phone_background.png')";
 
 // 在电脑端显示的背景图片链接
-const desktopBgImageUrl = "url('/img/background.png')";
+const desktopBgImageUrl = "url('/img/PC_background.png')";
 
 // 在手机端设置背景图片
 if (window.innerWidth < 768) {
